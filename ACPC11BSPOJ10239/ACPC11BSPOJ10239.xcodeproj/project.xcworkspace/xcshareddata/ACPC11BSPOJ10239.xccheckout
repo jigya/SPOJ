@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2ABBE108-FE38-40C7-ACA9-C859B093189D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ACPC11BSPOJ10239</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>333CB88A-96EA-4F71-9641-3EAC570B7809</key>
+		<string>https://github.com/jigya/GoogleCodeJam.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ACPC11BSPOJ10239/ACPC11BSPOJ10239.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>333CB88A-96EA-4F71-9641-3EAC570B7809</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jigya/GoogleCodeJam.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>333CB88A-96EA-4F71-9641-3EAC570B7809</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>333CB88A-96EA-4F71-9641-3EAC570B7809</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GoogleCodeJam</string>
+		</dict>
+	</array>
+</dict>
+</plist>
